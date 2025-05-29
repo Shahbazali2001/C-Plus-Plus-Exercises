@@ -4,9 +4,10 @@ Welcome to the C++ Projects repository! This repo contains 100+ C++ projects ran
 
 ## 🔗 Project Index
 
-| Project No | Project Name                         | Link                                           |
-|------------|--------------------------------------|------------------------------------------------|
-| 1          | Hello World                          | [Hello_World](./Hello_World)                   |
-| 2          | Print ASCII Value of Number          | [Print_ASCII_Value](./Print_ASCII_Value/)                   |
+| Project No | Project Name                         | Link                                                             |
+|------------|--------------------------------------|------------------------------------------------------------------|
+| 1          | Hello World                          | [Hello_World](./Hello_World)                                     |
+| 2          | Print ASCII Value of Number          | [Print_ASCII_Value](./Print_ASCII_Value/)                        |
+| 3          | Print ASCII Value of Each Char       | [ASCII_Value_Each_Character](./ASCII_Value_Each_Character/)      |
 
 > Click on any project name to view its folder and source code.
